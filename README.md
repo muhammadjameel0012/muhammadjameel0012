@@ -1,8 +1,8 @@
-# Hi, I'm Malik Muhammad Jameel 👋
+# Hi, I'm Muhammad Jameel 👋
 
-I'm a passionate **React & Full-Stack Developer** with 2.5 years of experience building modern, responsive web applications. I enjoy solving complex problems and creating interactive, user-friendly interfaces.  
+I'm a passionate React & Full-Stack Developer who loves building modern, responsive web applications. I enjoy solving complex problems and creating interactive, user-friendly interfaces.  
 
-💻 **Portfolio:** [Your Portfolio Link](https://your-portfolio.com)  
+💻 **Portfolio:** [Your Portfolio Link](https://devjameel-portfolio.vercel.app)  
 
 ---
 
@@ -33,9 +33,8 @@ A professional website for a roofing company that showcases services, completed 
 
 ## 🔹 Connect with Me
 
-- [LinkedIn](https://linkedin.com/in/yourprofile)  
-- [Twitter](https://twitter.com/yourprofile)  
-- [Portfolio](https://your-portfolio.com)  
+- [LinkedIn](https://www.linkedin.com/in/muhammad-jameel-066988261/)
+- [Portfolio](https://devjameel-portfolio.vercel.app/)
 
 ---
 
