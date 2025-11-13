@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Malik Muhammad Jameel 👋
 
-<!--
-**muhammadjameel0012/muhammadjameel0012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a React Developer with 2.5 years of experience.
 
-Here are some ideas to get you started:
+💻 My Portfolio: [Your Portfolio Link](https://your-portfolio.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Skills:
+- React
+- NestJS
+- Tailwind CSS
+- TypeScript
+
+🔹 You can also find me on:
+- [LinkedIn](https://linkedin.com/in/yourprofile)
+- [Twitter](https://twitter.com/yourprofile)
