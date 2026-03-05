@@ -2,7 +2,7 @@
 
 I'm a passionate React & Full-Stack Developer who loves building modern, responsive web applications. I enjoy solving complex problems and creating interactive, user-friendly interfaces.  
 
-💻 **Portfolio:** [Your Portfolio Link](https://devjameel-portfolio.vercel.app)  
+💻 **Portfolio:** [Click here](https://devjameel-portfolio.vercel.app)  
 
 ---
 
